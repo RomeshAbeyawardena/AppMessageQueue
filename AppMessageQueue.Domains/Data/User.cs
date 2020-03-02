@@ -10,6 +10,9 @@ namespace AppMessageQueue.Domains.Data
     {
         public int Id { get; set; }
         public byte[] EmailAddress { get; set; }
+        public byte[] FirstName { get; set; }
+        public byte[] MiddleName { get; set; }
+        public byte[] LastName { get; set; }
         public virtual ICollection<ApplicationInstance> ApplicationInstances { get; set; }
         public bool Active { get; set; }
     }
