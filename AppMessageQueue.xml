@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<installation installDirectory="C:\Source\Repos" projectName="AppMessageQueue">
+  <projects>
+    <project name="AppMessageQueue.Web" path="C:\Source\Repos\AppMessageQueue\AppMessageQueue.Web" />
+    <project name="AppMessageQueue.Broker" path="C:\Source\Repos\AppMessageQueue\AppMessageQueue.Broker" />
+    <project name="AppMessageQueue.Contracts" path="C:\Source\Repos\AppMessageQueue\AppMessageQueue.Contracts" />
+    <project name="AppMessageQueue.Data" path="C:\Source\Repos\AppMessageQueue\AppMessageQueue.Data" />
+    <project name="AppMessageQueue.Domains" path="C:\Source\Repos\AppMessageQueue\AppMessageQueue.Domains" />
+    <project name="AppMessageQueue.Services" path="C:\Source\Repos\AppMessageQueue\AppMessageQueue.Services" />
+    <project name="AppMessageQueue.Shared" path="C:\Source\Repos\AppMessageQueue\AppMessageQueue.Shared" />
+  </projects>
+</installation>
